@@ -3,8 +3,7 @@
 <p align="center">
   Coding is a passion. Follow it 💯💯
   <br />
-    It is a basic repository which is created with a purpose to provide hands-on experience in open-source contribution to the students who are beginning their journey to start out as developers. <br> 
-    This Repository contains many different types of number and it is upto the contributors to come up with an efficient logic to solve the question. 
+    It is a basic repository which is created with a purpose to provide hands-on experience in open-source contribution to the students who are beginning their journey to start out as developers. This repository contains many different types of number and it is upto the contributors to come up with an efficient logic to solve the question. 
 </p>
 
 ---

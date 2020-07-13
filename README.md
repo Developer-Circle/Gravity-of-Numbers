@@ -1,4 +1,4 @@
-> # Dealing with Number
+# Dealing with Number
 
 <p align="center">
   Coding is a passion. Follow it 💯💯

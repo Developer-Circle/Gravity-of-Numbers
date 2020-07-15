@@ -32,3 +32,9 @@ You can choose any programming language that you are confortable with:-
 - Kotlin
 - JavaScript
 
+
+# About The Developer Circle
+
+<img src="./DCG.png" alt="Developer Circle Logo">
+
+#### This organisation aims at spreading awareness and providing hands-on experience with open source contribution to the students to want to start out as developers

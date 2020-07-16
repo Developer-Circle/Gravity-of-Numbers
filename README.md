@@ -15,7 +15,7 @@
 
 ---
 
-## Pre-requisites
+>## Pre-requisites
 
 This repository is created with a purpose that everyone who is familiar with any basic programming language can be a part of it.
 
